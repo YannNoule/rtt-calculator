@@ -17,7 +17,7 @@ Suivez ces étapes pour installer le projet :
 1. **Cloner le dépôt Git**
 
 
-    git clone https://votredepot.git nom_du_projet
+    git clone https://github.com/YannNoule/rtt-calculator.git/
 
 
 2. **Installer les dépendances**
